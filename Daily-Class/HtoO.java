@@ -1,3 +1,4 @@
+//WAP to print 100 to 1 divisible by 2 and 5 using while loop
 public class HtoO {
     public static void main(String[] args) {
         int x=100;
